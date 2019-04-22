@@ -83,7 +83,7 @@ body {
 
 .skillsSection,
 .contactSection {
-  background-color: #01345B;
+  background-color: #FFCF43;
   color: #fff;
   text-align: center;
 }
@@ -187,8 +187,8 @@ border-radius: 5px;
 
 .contactButton:hover{
     text-decoration: none;
-    color:  #FFCF43;
-    background-color: #fff;
+    color:  #fff;
+    background-color:#FFCF43;
 }
 
 .filter a{
@@ -204,8 +204,8 @@ border-radius: 5px;
 }
 
 .filter .current {
-  background-color: #01345B;
-  border-color: #01345B;
+  background-color: #FB8122;
+  border-color: #FB8122;
   color: #fff;
 }
 
@@ -278,7 +278,7 @@ border-radius: 5px;
 .items a {
   width: 40px;
   height: 40px;
-  background-color: #01345B;
+  background-color: #FB8122;
   position: relative;
   display: inline-block;
   border: 1px solid #fff;
