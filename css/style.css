@@ -83,7 +83,7 @@ body {
 
 .skillsSection,
 .contactSection {
-  background-color: #FFCF43;
+  background-color: #1F3044;
   color: #fff;
   text-align: center;
 }
@@ -187,8 +187,8 @@ border-radius: 5px;
 
 .contactButton:hover{
     text-decoration: none;
-    color:  #fff;
-    background-color:#FFCF43;
+    color:  #FFCF43;
+    background-color: #fff;
 }
 
 .filter a{
@@ -355,7 +355,7 @@ border-radius: 5px;
 }
 
 #narvigation {
-  background-color: #01345B;
+  background-color: #1F3044;
   padding: 20px 10px;
   z-index: 100;
   width: 100%;
